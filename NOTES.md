@@ -62,6 +62,6 @@ TODO:
 ## Pomodoro 1
 
 - [x] Setup the code with empty function, contant and empty tests.
-- [ ] Create the unit tests.
-- [ ] Implement the function.
+- [x] Create the unit tests.
+- [x] Implement the function.
 - [ ] refactor the function.
